@@ -1,0 +1,24 @@
+---
+layout: post
+title: Ask
+date: '2015-04-20 14:02:00'
+---
+
+<p>Dana Loud, a co-worker of mine who's an amazing artist <a href="https://twitter.com/DanaLoud/status/585790139177246720">tweeted</a> this recently:</p>
+
+<blockquote>
+  <p>As a leader, there is no better way to build trust among your team than to admit you don’t know something and ask for their input. #gamedev</p>
+</blockquote>
+
+<p>I think this is an excellent example of vulnerability and squashing the lizard brain. Our AD said he didn't know something and he asked the team. What a better way to build trust and autonomy on the team? No one likes a know-it-all, and everyone needs to feel connected to the work at a larger scale than just the tasks they are assigned or take on.    </p>
+
+<p>You can take this ideal from the in-the-moment problem solving up to the more holistic approach. In one on one's I like asking people some of these kinds of questions. It's always interesting to hear each persons responses.</p>
+
+<ul>
+<li>What do we do well as a team?   </li>
+<li>Where can we improve?  </li>
+<li>What should be more concrete that is vague right now?  </li>
+<li>What can I do better for you?</li>
+</ul>
+
+<p>It's rewarding to hear people work out and solve problems you yourself don't know the answer to. Or even better, answer questions and solve problems you might not know even exists.</p>

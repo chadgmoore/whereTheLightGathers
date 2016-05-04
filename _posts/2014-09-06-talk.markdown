@@ -1,0 +1,21 @@
+---
+layout: post
+title: Talk
+date: '2014-09-06 14:02:00'
+---
+
+<p>A great way to share and build a following is to give a talk at a users group or conference. Maybe you don't think you could do it because public speaking terrifies you. Or you fear that you don't have the knowledge. </p>
+
+<p>It really isn't that hard to do, it comes down to practice and discussing your experiences. Everyone gets nervous before they go on stage. It's all about how you deal with the nerves. I practice the talk a lot beforehand and then take a couple deep breaths and just go on. I don't have a routine, I just get up there. It works for me, but I am not a natural. It does take work. Lack of practice is noted as a major reason talks go bad. Practice your talk a lot.  </p>
+
+<p>The trick is to not talk about all your knowledge, but to share your experiences. Just listing bullet points of how you did a thing is boring. Talking about your struggles and how you overcame them builds empathy. Empathy is the key to working well with people.  </p>
+
+<p>Everyone shares similar experiences, why not discuss yours with us? I look forward to seeing your talk.  </p>
+
+<p>There are a lot of resources out there on how to give a good talk. These are the one that really hit home with me.  </p>
+
+<ul>
+<li><a href="http://www.slideshare.net/jessedee/you-suck-at-powerpoint">You suck at powerpoint</a></li>
+<li>Anything by <a href="http://www.sethgodin.com/sg/">Seth Godin</a></li>
+<li><a href="http://www.pechakucha.org/faq">Pecha Kucha</a></li>
+</ul>

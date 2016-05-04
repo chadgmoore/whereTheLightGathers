@@ -1,0 +1,40 @@
+---
+layout: post
+title: UX for TA
+date: '2013-08-10 14:02:00'
+---
+
+<p>I met <a href="https://twitter.com/jc_ux">James Christie</a> at an event at <a href="http://www.alphaloft.org">Alpha Loft</a> some time ago. He gave an interesting talk on sustainability of the internet. He's interested in "Making a faster greener better web". He's a Senior Experience Designer for <a href="http://www.madpow.com/team/james-christie">Mad*Pow</a>. I've been asking him questions about User Experience and he's been patient and very helpful. I've also been doing some research on that role via reading <a href="http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0262525674/">The Design of Everyday things</a> and <a href="http://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1448492276&amp;sr=1-1&amp;keywords=elements+of+user+experience">The Elements of User Experience</a>. I am interested in seeing what if anything about UX applies to Tech Art for Games. </p>
+
+<p><strong>What is UX?</strong> <br />
+First of all what does User Experience Design even mean? Is that even a real thing, or am I making that up? Don't dismiss it, 15 years ago no one had ever heard of a Technical Artist. Most people still don't understand what we really do. I'm paraphrasing a Dan Pink quote here, "half the jobs of tomorrow don't exist today". New professions are growing at an amazing rate.  </p>
+
+<p>I think the User Experience Designer is concerned with the what or how of the tool, but moreover, the why. We've all built powerful tools with great interfaces that weren't adopted or considered not what the requester originally wanted. Sometimes that is because we didn't take into account the User Experience. Things like when and how is the tool used. What other things is the Artist doing at this time when she needs the tool? Asking these questions should guide your development.</p>
+
+<p><strong>What are the Principles of UX?</strong> <br />
+As far as I can tell, these are the steps to determine the Users experience. Thanks to <a href="https://generalassemb.ly/">General Assembly</a> for the info in their Intro to UX online class. </p>
+
+<p>1  Quickly design and prototype the tool. <br />
+ 2  Have users test the tool and observe user behavior. <br />
+ 3  Repeat until the experience is best it can be. <br />
+ 4  Pass documents, research, wire-frames, notes, etc to developers and designers so they can build the tool.  </p>
+
+<p><strong>What tools do UX people utilize?</strong> <br />
+My perception is that the field of UX , like any kind of development can be documentation heavy. There is a movement where Documentation leans towards Lean Design and Development, these types of documents are high value with low waste. Focusing on the Experience, not delivery of each individual document. The stress is Agile, not Waterfall. Collecting documents doesn't get the site, app or tool built. Utilizing the documents to build things does.</p>
+
+<p>Similar to our UI artists in Game Dev the UX folks work with "wire-frames" to quickly mock up what the UI and experience will be like. Borrowing a page from Marketing, UX designers will create "personas" which are blurbs of information about the type of user that encounters the website. For example, the casual football fan and the hard core fan with some playing experience each want something out of NFL.com. How do you design a large site so both personas quickly and elegantly get the experience and info they want? </p>
+
+<p>User Workflows are Process Maps. Map the decisions and ramifications that the User needs to make while engaging with the tool.</p>
+
+<p><strong>How does UX apply to Tech Art?</strong> <br />
+UX stems from design, psychology and web development. The focus is on making the Experience of the product as elegant as possible. We should strive to make our internal tools in the same way. The tools that we can make today are cutting edge. We can pass info from package to package, create our own IK solvers and deformations, deal with Shaders elegantly and even talk to the Engine. We've created a lot of efficiency. By using the principles and techniques of UX I think we can ensure the Experience of the user is elegant. We can reduce redundancy and empower the Artists and project alike.</p>
+
+<p><strong>My Plan</strong> <br />
+I'm going to put some items in the backlog to look at personas of people who use the tools. Animator, Artist, Tech Artist are a good start I think. However, adding personas per role, per project, per experience level might be best. An Artist new to the company needs different things, versus one that's been there for years. </p>
+
+<p>I'm going to require that a User Workflow and Wire-frame are created by the Tech Artist developing the tool for anything medium to large in scope. We already use the concept of One Page tool description docs, which are mostly text. I think it is simple enough to add a Visio image of the User Workflow and Wire-frames to the One Pager. </p>
+
+<p>One of the key facts we tend to miss is the observation of the User using the tools in context of production. UX Designers seem to have employed job shadowing and targeted questionnaires to get to the root causes of issues. I think we will follow suit. I'll let you know how it's going.</p>
+
+<p><strong>Your Experience with Experience</strong> <br />
+Are you as a Tech Artist employing these principles and tools? Have you had successes? Trouble spots? Do you think this is all crazy talk? Let me know.</p>

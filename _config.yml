@@ -1,0 +1,96 @@
+# User Settings | Edit there as per required
+
+title: Where the Light Gathers
+url: "http://ankitsultana.me"
+baseurl: ""
+
+# This will show up at the top of index page
+site_heading: >
+    <span class="faded">Where the Light Gathers</span>
+
+email: chad@chadmoore.net
+author: Chad Moore
+# This description will show up in google search results
+# (for index page) etc.
+description: >
+    Chad Moore is a Technical Project Manager and Consultant who works with Creative people.
+
+# This will what will show against &copy; in the footer
+copyright: Where the Light Gathers
+# Toggle your short bio, which will displayed on your index page
+# Just toggle it and run jekyll again to see
+intro: false         # Tip: Remove the span from site_heading if intro is set to true
+# This will be displayed in your intro
+short_bio: >
+    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
+    theme is that you can change the accent color. Refer the
+    <a class="underline different-highlight" href="http://ankitsultana.me/accent/documentation.html">
+        Documentation
+    </a>
+    to know how.
+
+permalink: /:title.html
+
+# Comments are powered by disqus
+comments: false
+
+# keep about_stub roughly 12 words long for best results
+# This will show up at the bottom of each post
+# Note that about_footer should be true if you want
+# to see author information at the bottom of each post
+about_stub: >
+    works best by helping creative people do their best work.
+
+about_footer: true
+
+twitter_username: chad_g_moore
+github_username: chadgmoore
+facebook_id: chadgmoore
+
+favicon: true
+favicon_location: "images/favicon.ico"
+
+profile_picture: images/temp.png
+paginate: 5
+paginate_path: "/page/:num"
+tracking_id: UA-69243698-7 # GA Tracking ID
+
+include: ['_pages']
+
+# Social Stuff | open graph and twitter cards
+og_image: "images/accent.png" # This will show in facebook thumbnails
+twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
+
+####################################
+####################################
+####################################
+### Build Settings | Don't Touch ###
+####################################
+####################################
+####################################
+
+markdown: kramdown
+
+gems:
+    - jekyll-paginate
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# Scopes
+defaults:
+    -
+        scope:
+            path:   ""
+            type:   "pages"
+        values:
+            layout: "page"
+    -
+        scope:
+            path:   ""
+            type:   "posts"
+        values:
+            layout: "post"
+
+exclude: [vendor] # For travis ci

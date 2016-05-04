@@ -1,0 +1,15 @@
+---
+layout: post
+title: Trust
+date: '2013-12-03 22:20:00'
+---
+
+<p>I was in a group conversation once where I believe someone was confusing autonomy with trust. His point was that someone had to earn autonomy so that they could get more advanced and meaningful tasks. I think that everyone has to <em>earn</em> trust but the culture/management grants autonomy.</p>
+
+<p><strong>Trust</strong>: belief that someone or something is reliable, good, honest, effective, etc.</p>
+
+<p><strong>Autonomy</strong>: the quality or state of being independent, free, and self-directing.</p>
+
+<p>If there are clear goals, a nod to best practices and there is enough information to act on, let people work autonomously. Working in this free state is empowering. They have to do the work properly, which shows they can be trusted. But I try to apply this to everyone, even junior people new to the team. They likely have a task list to get through via a known procedures. Letting them do that freely may uncover better ways to improve the process.</p>
+
+<p>Working autonomously is the opposite of working while being micro-managed. </p>
